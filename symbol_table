@@ -1,0 +1,15 @@
+{'status': 'Defined', 'sym_n': 'c', 's_add': 0, 'type': ' dd ', 'value': [1], 'size': 4}
+{'status': 'Defined', 'sym_n': 'b', 's_add': 4, 'type': ' dd ', 'value': [1255], 'size': 4}
+{'status': 'Defined', 'sym_n': 'msg', 's_add': 8, 'type': ' db ', 'value': 'addition is %d\n0\n', 'size': 17}
+{'status': 'Defined', 'sym_n': 'h', 's_add': 25, 'type': ' db ', 'value': '22\n', 'size': 3}
+{'status': 'Defined', 'sym_n': 'e', 's_add': 28, 'type': ' dd ', 'value': [12], 'size': 4}
+{'status': 'Defined', 'sym_n': 'd', 's_add': 32, 'type': ' dd ', 'value': [5], 'size': 4}
+{'status': 'Defined', 'sym_n': 'a', 's_add': 36, 'type': ' dd ', 'value': [2], 'size': 4}
+{'status': 'Defined', 'sym_n': 'q', 's_add': 40, 'type': ' dd ', 'value': [34], 'size': 4}
+{'status': 'Defined', 'sym_n': 'sum', 's_add': 0, 'type': ' resd ', 'value': 'notassign', 'size': 4}
+{'status': 'Defined', 'sym_n': 'aa', 's_add': 12, 'type': ' resd ', 'value': 'notassign', 'size': 4}
+{'status': 'Defined', 'sym_n': 'cc', 's_add': 16, 'type': ' resb ', 'value': 'notassign', 'size': 1}
+{'status': 'Defined', 'sym_n': 'bb', 's_add': 17, 'type': ' resd ', 'value': 'notassign', 'size': 4}
+{'status': 'Defined', 'sym_n': 'main', 's_add': 0, 'type': 'func', 'value': 'notassign', 'size': 0}
+{'status': 'Defined', 'sym_n': 'abc', 's_add': 139, 'type': 'func', 'value': 'notassign', 'size': 0}
+{'status': 'Defined', 'sym_n': 'pqr', 's_add': 381, 'type': 'func', 'value': 'notassign', 'size': 0}
